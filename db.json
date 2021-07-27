@@ -1,214 +1,504 @@
 {
     "Closed": [
-        {
-            "itilticketid": "55601947",
-            "rfcno": "TSK55601947",
-            "ticketid": "",
-            "departmentid": "1341",
-            "department": "C4C_SAP-Backup",
-            "statustitle": "Closed",
-            "createddate": "2020-02-29 06:46:12",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "",
-            "replyto": "",
-            "subject": "",
-            "tickettypetitle": "Task",
-            "groupid": "785",
-            "groupname": "C4C_Backup",
-            "lastreplier": "",
-            "lastactivity": "260d 10h 23m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2MDE5NDc=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55604498",
-            "rfcno": "AL55604498",
-            "ticketid": "103376936",
-            "departmentid": "1331",
-            "department": "C4C_SAP-Linux",
-            "statustitle": "Closed",
-            "createddate": "2020-02-29 09:46:51",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "nagaraju tammana",
-            "replyto": "scc-noc@cloud4c.com",
-            "subject": " Went to Read Only State Disaster alert",
-            "tickettypetitle": "Alert",
-            "groupid": "780",
-            "groupname": "C4C_Ent&SAP Linux",
-            "lastreplier": "nagaraju tammana",
-            "lastactivity": "262d 11h 3m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/almanager/getaldetails/NTU2MDQ0OTg=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55613004",
-            "rfcno": "TSK55613004",
-            "ticketid": "103417405",
-            "departmentid": "1351",
-            "department": "C4C_SAP-Network",
-            "statustitle": "Closed",
-            "createddate": "2020-02-29 15:33:03",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": " Donthireddy  Srikanth Reddy",
-            "replyto": "lavanya.bade@cloud4c.com",
-            "subject": "ADNOC || Bidirectional Communication",
-            "tickettypetitle": "Task",
-            "groupid": "790",
-            "groupname": "C4C_Ent&SAP Network",
-            "lastreplier": "Lavanya Bade",
-            "lastactivity": "261d 19h 10m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2MTMwMDQ=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55625057",
-            "rfcno": "AL55625057",
-            "ticketid": "103469504",
-            "departmentid": "1331",
-            "department": "C4C_SAP-Linux",
-            "statustitle": "Closed",
-            "createddate": "2020-02-29 23:35:17",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "Sairam Gandla",
-            "replyto": "scc-noc@cloud4c.com",
-            "subject": "ADNOC_uaadsbprdb02_Linux_10.249.4.162 - Disaster - DISK - on volume /var - Free: 392.41 MB Total: 20.55 GB Disaster alert",
-            "tickettypetitle": "Alert",
-            "groupid": "780",
-            "groupname": "C4C_Ent&SAP Linux",
-            "lastreplier": "Sairam Gandla",
-            "lastactivity": "261d 21h 9m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/almanager/getaldetails/NTU2MjUwNTc=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55626562",
-            "rfcno": "IM55626562",
-            "ticketid": "103475195",
-            "departmentid": "485",
-            "department": "SAP-BASIS-L2",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 00:31:13",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "Yasam Rajesh",
-            "replyto": "scc-noc@cloud4c.com",
-            "subject": "ADNOC_ahqqsapgc3n1_MC3_QAS_HANA_10.249.1.165 - High - DISK - on volume /hana/data - Free: 34.17 GB Total: 349.83 GB High alert",
-            "tickettypetitle": "Incident",
-            "groupid": "44",
-            "groupname": "SAP-BASIS-L2",
-            "lastreplier": "navtej singh",
-            "lastactivity": "231d 11h 8m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/immanager/getIncidentdetails/NTU2MjY1NjI=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55639506",
-            "rfcno": "SOPTSK55639506",
-            "ticketid": "103553697",
-            "departmentid": "485",
-            "department": "SAP-BASIS-L2",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 12:10:28",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "Takahiro Mishima",
-            "replyto": "nagarjuna.jammula@cloud4c.com",
-            "subject": "SOPTSK: ADNOC_uadgrgc1ap01_Linux_10.249.4.189 - Disaster - Gateway is Down :gwrd, Gateway, YELLOW, Scheduled, , , -1 Disaster alert",
-            "tickettypetitle": "SOPTSK",
-            "groupid": "44",
-            "groupname": "SAP-BASIS-L2",
-            "lastreplier": "Jammula Nagarjuna Goud",
-            "lastactivity": "147d 13h 36m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/sopmanager/getsopdetails/NTU2Mzk1MDY=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55640699",
-            "rfcno": "TSK55640699",
-            "ticketid": "103559642",
-            "departmentid": "1331",
-            "department": "C4C_SAP-Linux",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 12:57:02",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "abhishek hanumanth",
-            "replyto": "nagarjuna.jammula@cloud4c.com",
-            "subject": "RE: Incident Notification - MEDIUM - Abu Dhabi National Oil Company - 105250 2020",
-            "tickettypetitle": "Task",
-            "groupid": "780",
-            "groupname": "C4C_Ent&SAP Linux",
-            "lastreplier": "abhishek hanumanth",
-            "lastactivity": "261d 6h 7m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2NDA2OTk=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55642485",
-            "rfcno": "TSK55642485",
-            "ticketid": "103571650",
-            "departmentid": "1526",
-            "department": "SAP-OPS-TLO",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 14:40:23",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "Jyothirmai gaddidasu",
-            "replyto": "sapnoc@cloud4c.com",
-            "subject": "FW: Incident Notification - HIGH - Abu Dhabi National Oil Company - 155107 2020",
-            "tickettypetitle": "Task",
-            "groupid": "239",
-            "groupname": "SAP-OPS-TLO",
-            "lastreplier": "SCC",
-            "lastactivity": "261d 5h 32m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2NDI0ODU=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55642611",
-            "rfcno": "TSK55642611",
-            "ticketid": "103572256",
-            "departmentid": "485",
-            "department": "SAP-BASIS-L2",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 14:45:04",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "Jyothirmai gaddidasu",
-            "replyto": "sapnoc@cloud4c.com",
-            "subject": "FW: Incident Notification - HIGH - Abu Dhabi National Oil Company - 155133 2020",
-            "tickettypetitle": "Task",
-            "groupid": "44",
-            "groupname": "SAP-BASIS-L2",
-            "lastreplier": "SCC",
-            "lastactivity": "261d 5h 36m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2NDI2MTE=",
-            "resolveid": "N/A"
-        },
-        {
-            "itilticketid": "55644899",
-            "rfcno": "TSK55644899",
-            "ticketid": "103582753",
-            "departmentid": "1526",
-            "department": "SAP-OPS-TLO",
-            "statustitle": "Closed",
-            "createddate": "2020-03-01 16:20:22",
-            "prioritytitle": "P3 Normal",
-            "ownerstaffname": "akhil annreddy",
-            "replyto": "nagarjuna.jammula@cloud4c.com",
-            "subject": "TS1 system Copy",
-            "tickettypetitle": "Task",
-            "groupid": "239",
-            "groupname": "SAP-OPS-TLO",
-            "lastreplier": "Jammula Nagarjuna Goud",
-            "lastactivity": "260d 4h 4m",
-            "organizationname": "Abu Dhabi National Oil Company (ADNOC) [SAP-HEC]",
-            "url": "http://myshift1.ctrls.in/itil/ts/getTsdetails/NTU2NDQ4OTk=",
-            "resolveid": "N/A"
-        }
-    ]
+  {
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },
+  {
+    text: 'time',
+    value: 77,
+  },
+  {
+    text: 'thing',
+    value: 45,
+  },
+  {
+    text: 'left',
+    value: 19,
+  },
+  {
+    text: 'pay',
+    value: 13,
+  },
+  {
+    text: 'people',
+    value: 32,
+  },
+  {
+    text: 'month',
+    value: 22,
+  },
+  {
+    text: 'again',
+    value: 35,
+  },
+  {
+    text: 'review',
+    value: 24,
+  },
+  {
+    text: 'call',
+    value: 38,
+  },
+  {
+    text: 'doctor',
+    value: 70,
+  },
+  {
+    text: 'asked',
+    value: 26,
+  },
+  {
+    text: 'finally',
+    value: 14,
+  },
+  {
+    text: 'insurance',
+    value: 29,
+  },
+  {
+    text: 'week',
+    value: 41,
+  },
+  {
+    text: 'called',
+    value: 49,
+  },
+  {
+    text: 'problem',
+    value: 20,
+  },
+  {
+    text: 'going',
+    value: 59,
+  },
+  {
+    text: 'help',
+    value: 49,
+  },
+  {
+    text: 'felt',
+    value: 45,
+  },
+  {
+    text: 'discomfort',
+    value: 11,
+  },
+  {
+    text: 'lower',
+    value: 22,
+  },
+  {
+    text: 'severe',
+    value: 12,
+  },
+  {
+    text: 'free',
+    value: 38,
+  },
+  {
+    text: 'better',
+    value: 54,
+  },
+  {
+    text: 'muscle',
+    value: 14,
+  },
+  {
+    text: 'neck',
+    value: 41,
+  },
+  {
+    text: 'root',
+    value: 24,
+  },
+  {
+    text: 'adjustment',
+    value: 16,
+  },
+  {
+    text: 'therapy',
+    value: 29,
+  },
+  {
+    text: 'injury',
+    value: 20,
+  },
+  {
+    text: 'excruciating',
+    value: 10,
+  },
+  {
+    text: 'chronic',
+    value: 13,
+  },
+  {
+    text: 'chiropractor',
+    value: 35,
+  },
+  {
+    text: 'treatment',
+    value: 59,
+  },
+  {
+    text: 'tooth',
+    value: 32,
+  },
+  {
+    text: 'chiropractic',
+    value: 17,
+  },
+  {
+    text: 'dr',
+    value: 77,
+  },
+  {
+    text: 'relief',
+    value: 19,
+  },
+  {
+    text: 'shoulder',
+    value: 26,
+  },
+  {
+    text: 'nurse',
+    value: 17,
+  },
+  {
+    text: 'room',
+    value: 22,
+  },
+  {
+    text: 'hour',
+    value: 35,
+  },
+  {
+    text: 'wait',
+    value: 38,
+  },
+  {
+    text: 'hospital',
+    value: 11,
+  },
+  {
+    text: 'eye',
+    value: 13,
+  },
+  {
+    text: 'test',
+    value: 10,
+  },
+  {
+    text: 'appointment',
+    value: 49,
+  },
+  {
+    text: 'medical',
+    value: 19,
+  },
+  {
+    text: 'question',
+    value: 20,
+  },
+  {
+    text: 'office',
+    value: 64,
+  },
+  {
+    text: 'care',
+    value: 54,
+  },
+  {
+    text: 'minute',
+    value: 29,
+  },
+  {
+    text: 'waiting',
+    value: 16,
+  },
+  {
+    text: 'patient',
+    value: 59,
+  },
+  {
+    text: 'health',
+    value: 49,
+  },
+  {
+    text: 'alternative',
+    value: 24,
+  },
+  {
+    text: 'holistic',
+    value: 19,
+  },
+  {
+    text: 'traditional',
+    value: 20,
+  },
+  {
+    text: 'symptom',
+    value: 29,
+  },
+  {
+    text: 'internal',
+    value: 17,
+  },
+  {
+    text: 'prescribed',
+    value: 26,
+  },
+  {
+    text: 'acupuncturist',
+    value: 16,
+  },
+  {
+    text: 'pain',
+    value: 64,
+  },
+  {
+    text: 'integrative',
+    value: 10,
+  },
+  {
+    text: 'herb',
+    value: 13,
+  },
+  {
+    text: 'sport',
+    value: 22,
+  },
+  {
+    text: 'physician',
+    value: 41,
+  },
+  {
+    text: 'herbal',
+    value: 11,
+  },
+  {
+    text: 'eastern',
+    value: 12,
+  },
+  {
+    text: 'chinese',
+    value: 32,
+  },
+  {
+    text: 'acupuncture',
+    value: 45,
+  },
+  {
+    text: 'prescribe',
+    value: 14,
+  },
+  {
+    text: 'medication',
+    value: 38,
+  },
+  {
+    text: 'western',
+    value: 35,
+  },
+  {
+    text: 'sure',
+    value: 38,
+  },
+  {
+    text: 'work',
+    value: 64,
+  },
+  {
+    text: 'smile',
+    value: 17,
+  },
+  {
+    text: 'teeth',
+    value: 26,
+  },
+  {
+    text: 'pair',
+    value: 11,
+  },
+  {
+    text: 'wanted',
+    value: 20,
+  },
+  {
+    text: 'frame',
+    value: 13,
+  },
+  {
+    text: 'lasik',
+    value: 10,
+  },
+  {
+    text: 'amazing',
+    value: 41,
+  },
+  {
+    text: 'fit',
+    value: 14,
+  },
+  {
+    text: 'happy',
+    value: 22,
+  },
+  {
+    text: 'feel',
+    value: 49,
+  },
+  {
+    text: 'glasse',
+    value: 19,
+  },
+  {
+    text: 'vision',
+    value: 12,
+  },
+  {
+    text: 'pressure',
+    value: 16,
+  },
+  {
+    text: 'find',
+    value: 29,
+  },
+  {
+    text: 'experience',
+    value: 59,
+  },
+  {
+    text: 'year',
+    value: 70,
+  },
+  {
+    text: 'massage',
+    value: 35,
+  },
+  {
+    text: 'best',
+    value: 54,
+  },
+  {
+    text: 'mouth',
+    value: 20,
+  },
+  {
+    text: 'staff',
+    value: 64,
+  },
+  {
+    text: 'gum',
+    value: 10,
+  },
+  {
+    text: 'chair',
+    value: 12,
+  },
+  {
+    text: 'ray',
+    value: 22,
+  },
+  {
+    text: 'dentistry',
+    value: 11,
+  },
+  {
+    text: 'canal',
+    value: 13,
+  },
+  {
+    text: 'procedure',
+    value: 32,
+  },
+  {
+    text: 'filling',
+    value: 26,
+  },
+  {
+    text: 'gentle',
+    value: 19,
+  },
+  {
+    text: 'cavity',
+    value: 17,
+  },
+  {
+    text: 'crown',
+    value: 14,
+  },
+  {
+    text: 'cleaning',
+    value: 38,
+  },
+  {
+    text: 'hygienist',
+    value: 24,
+  },
+  {
+    text: 'dental',
+    value: 59,
+  },
+  {
+    text: 'charge',
+    value: 24,
+  },
+  {
+    text: 'cost',
+    value: 29,
+  },
+  {
+    text: 'charged',
+    value: 13,
+  },
+  {
+    text: 'spent',
+    value: 17,
+  },
+  {
+    text: 'paying',
+    value: 14,
+  },
+  {
+    text: 'pocket',
+    value: 12,
+  },
+  {
+    text: 'dollar',
+    value: 11,
+  },
+  {
+    text: 'business',
+    value: 32,
+  },
+  {
+    text: 'refund',
+    value: 10,
+  },
+]
 }
